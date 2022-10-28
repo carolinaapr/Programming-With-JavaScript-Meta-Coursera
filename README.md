@@ -7,10 +7,10 @@ This is my personal notes,exercise, and assignments through out the course
 <a href="https://www.coursera.org/learn/programming-with-javascript?specialization=meta-front-end-developer">Visit the coursera course offer here</a>
 
 Table of contents:
-Wekk 1: Introduction to JavaScript
-Week 2: The Buildong block of programs
-Week 3: Programming Paradigms
-Week 4: Testing
-Week 5: End of Course Grade Asessment
+<br>Wekk 1: Introduction to JavaScript</br>
+<br>Week 2: The Buildong block of programs</br>
+<br>Week 3: Programming Paradigms</br>
+<br>Week 4: Testing</br>
+<br>Week 5: End of Course Grade Asessment</br>
 
 Proof of completion:
