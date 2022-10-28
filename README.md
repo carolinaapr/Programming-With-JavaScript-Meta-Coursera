@@ -1,7 +1,7 @@
 # Programming-With-JavaScript-Meta-Coursera
 This directory contains all of my assignments from the Coursera Course: Programming with JavaScript 
 This is my personal notes,exercise, and assignments through out the course
-<a href="https://www.coursera.org/learn/programming-with-javascript?specialization=meta-front-end-developer">Visit the coursera course offer here</a>
+<a href="https://www.coursera.org/learn/programming-with-javascript?specialization=meta-front-end-developer" target="_blank">Visit the coursera course offer here</a>
 
 <b>SPOILER ALERT</b> If you are now taking this course on coursera this repository contains the answer and coding solution through out this courser,
 proceed in your own action.
